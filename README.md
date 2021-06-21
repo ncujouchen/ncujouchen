@@ -1,6 +1,6 @@
 # About me
 
-# Nice to meet you😀
+## Nice to meet you😀
 - 👋 Hi, I’m @ncujouchen.
 - 👀 I’m interested in exercising, singing.
 - 🌱 I’m currently learning Web Programming.
