@@ -1,10 +1,10 @@
+# About me
+
+# Nice to meet you😀
 - 👋 Hi, I’m @ncujouchen.
 - 👀 I’m interested in exercising, singing.
 - 🌱 I’m currently learning Web Programming.
 - 📫 You to reach me by (Email)angel666@g.ncu.edu.tw.
-Nice to meet you😀
-
-# About me
 
 ## Headers
 
