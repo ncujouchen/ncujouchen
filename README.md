@@ -1,12 +1,11 @@
 # About me
 
 ## Nice to meet you😀
+### a cute girl who loves in research IT and likes to accept challenge.
 - 👋 Hi, I’m @ncujouchen.
 - 👀 I’m interested in exercising, singing.
 - 🌱 I’m currently learning Web Programming.
 - 📫 You to reach me by (Email)angel666@g.ncu.edu.tw.
-
-## Headers
 
 # This is a Heading h1
 ## This is a Heading h2 
