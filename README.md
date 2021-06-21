@@ -20,6 +20,7 @@
 * Most Promising Young Designer (2018) Given by the Winslough Academy for the Arts
 
 ### Educational Training
+
 **San Dias School of Design**
 *Bachelor of Arts in Fashion Design*
 * Attended from Aug. 2007 to May 2011
@@ -27,6 +28,7 @@
 * Best Knitwear Collection, San Dias Student Fashion Show 2010
 
 **Curtin High School**
+
 *Diploma with Academic Distinction*
 * Attended from Aug. 2003 to May 2007
 * Graduated cum laude with GPA of 3.5
@@ -35,11 +37,11 @@
 
 ### Work Experience
 **Senior Fashion Designer 23 BAKS Clothing Co. Sept. 2019 to present**
-•	Develops and executes designs in line with brand identity and business strategy
-•	Collaborates with various teams throughout the design process
+* Develops and executes designs in line with brand identity and business strategy
+* Collaborates with various teams throughout the design process
 
 ## Images
 ![This is a alt text.](angel.jpg "This is my cute image.")
 
 ## Links
-# [Please visit my homepage](https://ncujouchen.github.io/)
+## [Visit my homepage](https://ncujouchen.github.io/)
