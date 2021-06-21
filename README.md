@@ -22,6 +22,7 @@
 ### Educational Training
 
 **San Dias School of Design**
+
 *Bachelor of Arts in Fashion Design*
 * Attended from Aug. 2007 to May 2011
 * Graduated magna cum laude with GPA of 3.750
