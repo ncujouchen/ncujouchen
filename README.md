@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ncujouchen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ncujouchen.
+- 👀 I’m interested in exercising, singing.
+- 🌱 I’m currently learning Web Programming.
+- 📫 You to reach me by (Email)angel666@g.ncu.edu.tw.
+Nice to meet you😀
 
-# Markdown syntax guide
+# About me
 
 ## Headers
 
